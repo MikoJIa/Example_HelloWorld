@@ -1,0 +1,15 @@
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\introArrey.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\introArrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\introArrey.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\introArrey.AssemblyInfo.cs
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\introArrey.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\Examples\introArrey\bin\Debug\net6.0\introArrey.exe
+C:\Users\Николай\Desktop\Examples\introArrey\bin\Debug\net6.0\introArrey.deps.json
+C:\Users\Николай\Desktop\Examples\introArrey\bin\Debug\net6.0\introArrey.runtimeconfig.json
+C:\Users\Николай\Desktop\Examples\introArrey\bin\Debug\net6.0\introArrey.dll
+C:\Users\Николай\Desktop\Examples\introArrey\bin\Debug\net6.0\introArrey.pdb
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\introArrey.dll
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\refint\introArrey.dll
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\introArrey.pdb
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\introArrey.genruntimeconfig.cache
+C:\Users\Николай\Desktop\Examples\introArrey\obj\Debug\net6.0\ref\introArrey.dll

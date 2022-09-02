@@ -1,0 +1,15 @@
+C:\Users\Николай\Desktop\Examples\introMetod\bin\Debug\net6.0\introMetod.exe
+C:\Users\Николай\Desktop\Examples\introMetod\bin\Debug\net6.0\introMetod.deps.json
+C:\Users\Николай\Desktop\Examples\introMetod\bin\Debug\net6.0\introMetod.runtimeconfig.json
+C:\Users\Николай\Desktop\Examples\introMetod\bin\Debug\net6.0\introMetod.dll
+C:\Users\Николай\Desktop\Examples\introMetod\bin\Debug\net6.0\introMetod.pdb
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\introMetod.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\introMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\introMetod.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\introMetod.AssemblyInfo.cs
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\introMetod.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\introMetod.dll
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\refint\introMetod.dll
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\introMetod.pdb
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\introMetod.genruntimeconfig.cache
+C:\Users\Николай\Desktop\Examples\introMetod\obj\Debug\net6.0\ref\introMetod.dll
