@@ -1,0 +1,15 @@
+C:\Users\Николай\Desktop\Examples\MetodArrey\bin\Debug\net6.0\MetodArrey.exe
+C:\Users\Николай\Desktop\Examples\MetodArrey\bin\Debug\net6.0\MetodArrey.deps.json
+C:\Users\Николай\Desktop\Examples\MetodArrey\bin\Debug\net6.0\MetodArrey.runtimeconfig.json
+C:\Users\Николай\Desktop\Examples\MetodArrey\bin\Debug\net6.0\MetodArrey.dll
+C:\Users\Николай\Desktop\Examples\MetodArrey\bin\Debug\net6.0\MetodArrey.pdb
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\MetodArrey.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\MetodArrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\MetodArrey.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\MetodArrey.AssemblyInfo.cs
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\MetodArrey.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\MetodArrey.dll
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\refint\MetodArrey.dll
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\MetodArrey.pdb
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\MetodArrey.genruntimeconfig.cache
+C:\Users\Николай\Desktop\Examples\MetodArrey\obj\Debug\net6.0\ref\MetodArrey.dll
